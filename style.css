@@ -14,3 +14,7 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+
+.main-div{
+    height: 600px;
+    width: 330px;
