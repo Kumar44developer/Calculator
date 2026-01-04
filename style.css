@@ -37,7 +37,11 @@ to{
         transform: scale(1);
         opacity: 1;
     }
+}
 
+.screen{
+    height: 100px;
+    width: 100%;
 
 
 
