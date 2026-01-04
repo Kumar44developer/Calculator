@@ -18,3 +18,5 @@ body{
 .main-div{
     height: 600px;
     width: 330px;
+    margin: 30px auto;
+    padding: 10px;
