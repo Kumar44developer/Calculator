@@ -95,6 +95,9 @@ to{
     font-weight: bold;
     font-size: 32px;
     cursor: pointer;
+    color: #fff;
+    transition: border 0.4s ease-in-out;
+}
 
 
 
