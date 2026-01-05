@@ -99,7 +99,9 @@ to{
     transition: border 0.4s ease-in-out;
 }
 
-
+.number-div li:hover{
+    border:  2px solid deeppink;
+}
 
 
 
