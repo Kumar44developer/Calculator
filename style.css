@@ -57,6 +57,8 @@ to{
     width: 100%;
     position: absolute;
     top: 543px;
+    right: 0;
+    background: linear-gradient(to top, #c471f5 0%,#fa71cd 100%);
 
 
 
