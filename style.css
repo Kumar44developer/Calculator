@@ -63,7 +63,9 @@ to{
     text-align: center;
     font-weight: bold;
     font-size: 32px;
-
+    cursor: pointer;
+    transition: background 0.4s ease-in-out;
+}
 
 
 
