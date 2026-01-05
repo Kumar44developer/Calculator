@@ -55,6 +55,8 @@ to{
 .clear{
     height: 50px;
     width: 100%;
+    position: absolute;
+    top: 543px;
 
 
 
