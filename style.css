@@ -59,6 +59,8 @@ to{
     top: 543px;
     right: 0;
     background: linear-gradient(to top, #c471f5 0%,#fa71cd 100%);
+    border-radius: 0 0 25px 25px;
+    text-align: center;
 
 
 
