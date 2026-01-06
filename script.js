@@ -6,3 +6,7 @@ for(let i = 0;i<element.length; i+=1){
  if(element[i].innerHTML === '='){
         element[i].addEventListener("click",calculate(i));
     }
+else{
+        element[i].addEventListener("click",addToCurrentValue(i));
+    }
+}
