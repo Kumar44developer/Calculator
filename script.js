@@ -16,3 +16,8 @@ function addToCurrentValue(i){
  if(element[i].innerHTML === "x"){ 
             screen.innerHTML += '*';
         }
+   else{
+            screen.innerHTML += element[i].innerHTML;
+        }
+    }
+}
