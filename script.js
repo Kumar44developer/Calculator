@@ -24,6 +24,9 @@ function addToCurrentValue(i){
 
 function calculate(i){
     return function(){
+     screen.innerHTML = eval(screen.innerHTML);
+    }
+}
 
 
 
