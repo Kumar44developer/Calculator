@@ -1,0 +1,1 @@
+A simple JavaScript-based calculator that allows users to perform basic arithmetic operations. This calculator features a dynamic on-screen interface with number inputs, operators, and a clear button.
