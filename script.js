@@ -21,3 +21,14 @@ function addToCurrentValue(i){
         }
     }
 }
+
+function calculate(i){
+    return function(){
+
+
+
+
+
+
+
+
