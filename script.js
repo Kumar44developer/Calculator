@@ -10,3 +10,5 @@ else{
         element[i].addEventListener("click",addToCurrentValue(i));
     }
 }
+
+function addToCurrentValue(i){
