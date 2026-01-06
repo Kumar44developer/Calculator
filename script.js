@@ -13,3 +13,6 @@ else{
 
 function addToCurrentValue(i){
   return function(){
+ if(element[i].innerHTML === "x"){ 
+            screen.innerHTML += '*';
+        }
