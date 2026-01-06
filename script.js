@@ -28,6 +28,7 @@ function calculate(i){
     }
 }
 
+clear.onclick = function(){
 
 
 
