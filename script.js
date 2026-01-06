@@ -29,6 +29,8 @@ function calculate(i){
 }
 
 clear.onclick = function(){
+  screen.innerHTML = " ";
+}
 
 
 
