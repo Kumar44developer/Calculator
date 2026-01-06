@@ -12,3 +12,4 @@ else{
 }
 
 function addToCurrentValue(i){
+  return function(){
